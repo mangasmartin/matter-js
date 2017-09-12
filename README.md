@@ -4,3 +4,6 @@
 
 ## Basic folder
 Minimal scripts to start working
+
+## License
+See the one [Liam Brummitt](https://github.com/liabru/matter-js) sets for his work.
